@@ -23,3 +23,39 @@ Dans ce processus nous avons 7 acteurs principaux:
 * La base des données.
 * Le cache.
 
+
+## Activity Retrieval of crawling results
+
+
+## ActivityPartition User
+
+
+## ActivityPartition User Interface
+
+
+## ActivityPartition Crawler
+
+
+## ActivityPartition Facebook API
+
+
+## Actor User
+
+
+## Sequence Application Mngt
+
+
+## Sequence Cache
+
+
+## Sequence Crawler
+
+
+## Sequence DB
+
+
+## Sequence Front-end
+
+
+## Sequence Metric Computation
+
