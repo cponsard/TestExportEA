@@ -2,17 +2,17 @@
 
 ![Create project](Createproject.png)
 
-Le premier processus décrit la création d'un projet et le lancement d'un crawl et continue jusqu'à obtenir les insights nécessaires.
+Le premier processus dÃ©crit la crÃ©ation d'un projet et le lancement d'un crawl et continue jusqu'Ã  obtenir les insights nÃ©cessaires.
 Dans ce processus nous avons 4 acteurs principaux:
 
-	* L'utilisateur
-	* L'interface utlisateur qui représente l'application, séparé en back-end et front-end.
-	* Le crawler
-	* L'API Facebook qui est la source des données.
+* L'utilisateur
+* L'interface utlisateur qui reprÃ©sente l'application, sÃ©parÃ© en back-end et front-end.
+* Le crawler
+* L'API Facebook qui est la source des donnÃ©es.
 
 ![Recrawl](Recrawl.png)
 
-Dans le cadre de la vue de processus, le diagramme de séquence UML montre (en plus de ce que nous voyons dans les diagrammes précédents) certaines des réponses que l'utilisateur voit sur l'écran de l'interface utilisateur pendant qu'un processus est en cours d'exécution. Le processus en question est Le recrawl d'un projet ce qu'un utilisateur fait lorsqu'une mise à jour des informations est nécessaire, l'utilisateur lance donc un nouveau crawl pour obtenir plus de données et plus des insights.
+Dans le cadre de la vue de processus, le diagramme de sÃ©quence UML montre (en plus de ce que nous voyons dans les diagrammes prÃ©cÃ©dents) certaines des rÃ©ponses que l'utilisateur voit sur l'Ã©cran de l'interface utilisateur pendant qu'un processus est en cours d'exÃ©cution. Le processus en question est Le recrawl d'un projet ce qu'un utilisateur fait lorsqu'une mise Ã  jour des informations est nÃ©cessaire, l'utilisateur lance donc un nouveau crawl pour obtenir plus de donnÃ©es et plus des insights.
 Dans ce processus nous avons 7 acteurs principaux:
 
 	* L'utilisateur.
@@ -20,6 +20,6 @@ Dans ce processus nous avons 7 acteurs principaux:
 	* Metric Computation .
 	* Application Management.
 	* Le crawler
-	* La base des données.
+	* La base des donnÃ©es.
 	* Le cache.
 
